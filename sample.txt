@@ -1,0 +1,2 @@
+
+The cat command is one of the most used commands in Linux. It is used to create a file, display the content of the file, concatenate the contents of multiple files, display the line numbers, and more. Here, we will see how to create files and add content to them using cat command.
